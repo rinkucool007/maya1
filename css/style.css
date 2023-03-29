@@ -1226,6 +1226,10 @@ main {
   color: #000;
 }
 
+.cd-headline.slide .cd-words-wrapper {
+  color: #02bdd5;
+}
+
 .link-thumbnail {
   display: block;
   position: relative;
